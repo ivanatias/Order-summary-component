@@ -15,5 +15,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 # Author
 
-- Website - [Ivan Atias](https://www.ivanatias.dev)
+- Website - [Ivan Atias](https://www.ivanatias.codes)
 - Frontend Mentor - [@ivanatias](https://www.frontendmentor.io/profile/ivanatias)
